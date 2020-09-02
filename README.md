@@ -1,0 +1,2 @@
+# MyPaintEdSlidesExamples
+Repository containing examples for MyPaintEdSlides presentations
